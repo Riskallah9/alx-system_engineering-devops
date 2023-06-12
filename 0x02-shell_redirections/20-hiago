@@ -1,2 +1,2 @@
 #!/bint
-tr -d cC
+tr -d "cC"
