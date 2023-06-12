@@ -1,1 +1,2 @@
-#!/bintr -d "cC"
+#!/bint
+#r -d "cC"
